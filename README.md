@@ -1,0 +1,1 @@
+This repository contains a C program demonstrating an uncommon error related to the post-increment operator. The program intends to print the value of a variable before and after incrementing it using the post-increment operator. However, due to the order of operations, the output may be unexpected.  The solution file provides a corrected version.
